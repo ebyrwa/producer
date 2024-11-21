@@ -1,0 +1,4 @@
+[submodule "Producer/contracts"]
+	path = Producer/contracts
+	url = https://github.com/ebyrwa/contracts.git
+	branch = main
